@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
   <title>WEB1 - html</title>
