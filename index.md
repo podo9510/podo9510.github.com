@@ -26,7 +26,7 @@
   </p>지난 학기에 만든 포트폴리오 웹사이트 입니다.
 
   <h1>고양이를 좋아하는 나</h1>
-  <p><a href="https://www.facebook.com/search/top/?q=%EB%82%98%EB%A5%BC%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EA%B3%A0%EC%96%91%EC%9D%B4n">고양이 사진 보러가기</a> 고양이를 좋아합니다.
+  <p><a href="https://www.facebook.com/search/top/?q=%EB%82%98%EB%A5%BC%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EA%B3%A0%EC%96%91%EC%9D%B4">고양이 사진 보러가기</a> 고양이를 좋아합니다.
   </p>동물을 좋아하는 사람을 좋아해요.
 
   <h1>프로젝트 동영상 </h1>
