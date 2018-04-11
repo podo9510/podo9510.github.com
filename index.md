@@ -15,7 +15,7 @@
     <li><a href="2.html">CSS</a></li>
     <li><a href="3.html">JavaScript</a></li>
   </ol>
-  <h2>JavaScript</h2>
+  <h2>20141202구윤제</h2>
   <p>
 영어영문학과 경영학과복수전공 20141202 
 </p>
