@@ -13,7 +13,7 @@
   </ol>
   <h2>HTML</h2>
   <p>
-    <iframe width="640" height="360" src="http://www.youtube.com/embed/L7_jYl8A73g?version=3&vq=highres" frameborder="0" allowfullscreen>
+   <iframe width="640" height="360" src="http://www.youtube.com/embed/L7_jYl8A73g?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>모바일 : <a href="http://youtu.be/L7_jYl8A73g" target="_blank">http://youtu.be/L7_jYl8A73g</a> (<a href="http://jjalbox.com/?act=convert" target="_blank">YouTube 변환기</a>)
   </p>
   <p><a 
   <h1>20141202 구윤제</h1>
