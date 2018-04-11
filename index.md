@@ -9,8 +9,13 @@
     <li>복수전공 경영학과</li>
     <li>부전공 </li>
   </ol>
- <embed src="http://www.youtube.com/v/L7_jYl8A73g?version=3&vq=highres" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true" allowscriptaccess="never"></embed><br><br>모바일 : <a href="http://youtu.be/L7_jYl8A73g" target="_blank">http://youtu.be/L7_jYl8A73g</a> (<a href="http://jjalbox.com/?act=convert" target="_blank">YouTube 변환기</a>)
  </li>
+  </ol>
+  <h2>HTML</h2>
+  <p>
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/L7_jYl8A73g?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>)
+  </p>
+  <p><a 
   </ol>
   <h2>HTML</h2>
   <p>
