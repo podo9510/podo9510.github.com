@@ -15,7 +15,7 @@
  </ol>
  
   <p>
-    <  <iframe width="1280" height="720" src="http://www.youtube.com/embed/i0p1bmr0EmE?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>)
+    <  <iframe width="640" height="360" src="http://www.youtube.com/embed/i0p1bmr0EmE?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>)
 ></iframe>
   </p>
   <p><a 
