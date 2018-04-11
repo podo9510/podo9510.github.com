@@ -1,6 +1,6 @@
 <html>
 <head>
-  <h1>20141202 구윤제 github<h1>
+  <h1>20141202 구윤제 github</h1>
   <meta charset="utf-8">
 </head>
 <body>
@@ -22,7 +22,7 @@
   </p>
   <p><a 
  유튜브음악과 같이 웹페이지 감상해주세요  크롬에서는 재생되지 않습니다 IE로 들어주세요 ㅜㅜ   
-  <h1><p><a href="https://guchoongje.wixsite.com/yoonje" target="_blank" title="html5 specification">구윤제</a> 자세한 프로필은 이 링크를 참조해주세요<h1>
+  <h1><p><a href="https://guchoongje.wixsite.com/yoonje" target="_blank" title="html5 specification">구윤제</a> 자세한 프로필은 이 링크를 참조해주세요</h1>
   </p> <지난 학기에 만든 포트폴리오 웹사이트 입니다.
 
   <h1>고양이를 좋아하는 나</h1>
