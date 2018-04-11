@@ -11,9 +11,9 @@
     }
   ">
   <ol>
-    <li><a href="1.html">HTML</a></li>
-    <li><a href="2.html">CSS</a></li>
-    <li><a href="3.html">JavaScript</a></li>
+    <li><a href="1.html">디지털</a></li>
+    <li><a href="2.html">인문</a></li>
+    <li><a href="3.html">예술</a></li>
   </ol>
   <h2>20141202구윤제</h2>
   <p>
