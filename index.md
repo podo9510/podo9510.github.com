@@ -1,21 +1,19 @@
-<h1><a href="index.html">20141202</a></h1>
-  <input id="night_day" type="button" value="night" onclick="
-    if(document.querySelector('#night_day').value === 'night'){
-      document.querySelector('body').style.backgroundColor = 'black';
-      document.querySelector('body').style.color = 'white';
-      document.querySelector('#night_day').value = 'day';
-    } else {
-      document.querySelector('body').style.backgroundColor = 'white';
-      document.querySelector('body').style.color = 'black';
-      document.querySelector('#night_day').value = 'night';
-    }
-  ">
+<!doctype html>
+<html>
+<head>
+  <title>WEB1 - html</title>
+  <meta charset="utf-8">
+</head>
+<body>
   <ol>
-    <li><a href="1.html">디지털</a></li>
-    <li><a href="2.html">인문</a></li>
-    <li><a href="3.html">예술</a></li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
   </ol>
-  <h2>20141202구윤제</h2>
-  <p>
-영어영문학과 경영학과복수전공 20141202 
-</p>
+  <h1>HTML</h1>
+  <p><a href="https://www.w3.org/TR/html5/" target="_blank" title="html5 specification">Hypertext Markup Language (HTML)</a> is the standard markup language for <strong>creating <u>web</u> pages</strong> and web applications.Web browsers receive HTML documents from a web server or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+  <img src="coding.jpg" width="100%">
+  </p><p style="margin-top:45px;">HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects, such as interactive forms, may be embedded into the rendered page. It provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets.
+  </p>
+</body>
+</html>
