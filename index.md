@@ -1,4 +1,4 @@
-<h1><a href="index.html">WEB</a></h1>
+<h1><a href="index.html">20141202</a></h1>
   <input id="night_day" type="button" value="night" onclick="
     if(document.querySelector('#night_day').value === 'night'){
       document.querySelector('body').style.backgroundColor = 'black';
