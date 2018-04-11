@@ -13,7 +13,7 @@
   </ol>
   <h2>HTML</h2>
   <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jSJM9iOiQ1g" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtu.be/L7_jYl8A73g" frameborder="0" allowfullscreen></iframe>
   </p>
   <p><a 
   <h1>20141202 구윤제</h1>
