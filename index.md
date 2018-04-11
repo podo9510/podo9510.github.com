@@ -26,6 +26,22 @@
   <h1>프로젝트 동영상 </h1>
   <p><a href="https://www.youtube.com/watch?v=iTCZ9hG69Qk" target="_blank" title="html5 specification">보러가기</a> 저번 수업에 만든 동영상입니다.
   </p>재밌게 봐주세요
+    </p>
+  <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/57a72994c11fe69b0bd8fa90/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</body>
+</html>
   </p>
   <p>
     <div id="disqus_thread"></div>
