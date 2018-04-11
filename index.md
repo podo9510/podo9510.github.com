@@ -33,7 +33,8 @@
   <h1>프로젝트 동영상 </h1>
   <p><a href="https://www.youtube.com/watch?v=iTCZ9hG69Qk" target="_blank" title="html5 specification">보러가기</a> 저번 수업에 만든 동영상입니다.
   </p>재밌게 봐주세요
-  <p><a href="https://www.facebook.com/ELnDH/?modal=composer&notif_id=1521526126231023&notif_t=aymt_make_page_post_tip&ref=notif">English Literature and Digital Humanities 페이스북 페이지 방문하기 </a> 친구들과 개설한 페이스북 페이지입니다. 많은 방문 부탁드려요.
+  <p><a href="https://www.facebook.com/ELnDH/?modal=composer&notif_id=1521526126231023&notif_t=aymt_make_page_post_tip&ref=notif">English Literature and Digital Humanities 페이스북 페이지 방문하기 </a> 
+ 친구들과 개설한 페이스북 페이지입니다. 많은 방문 부탁드려요.
     </p>
   <!--Start of Tawk.to Script-->
 <script type="text/javascript">
