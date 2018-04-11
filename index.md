@@ -9,6 +9,13 @@
     <li>복수전공 경영학과</li>
     <li>부전공 </li>
   </ol>
+ </li>
+  </ol>
+  <h2>HTML</h2>
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jSJM9iOiQ1g" frameborder="0" allowfullscreen></iframe>
+  </p>
+  <p><a 
   <h1>20141202 구윤제</h1>
   <p><a href="https://guchoongje.wixsite.com/yoonje" target="_blank" title="html5 specification">구윤제</a> 자세한 프로필은 이 사이트를 참조해주세요
   </p>지난 학기에 만든 포트폴리오 웹사이트 입니다.
