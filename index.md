@@ -21,9 +21,9 @@
   <p>
   </p>
   <p><a 
-  <h1>유튜브음악과 같이 웹페이지 감상해주세요  크롬에서는 재생되지 않습니다 IE로 들어주세요 ㅜㅜ   </h1>
-  <p><a href="https://guchoongje.wixsite.com/yoonje" target="_blank" title="html5 specification">구윤제</a> 자세한 프로필은 이 링크를 참조해주세요
-  </p>지난 학기에 만든 포트폴리오 웹사이트 입니다.
+ 유튜브음악과 같이 웹페이지 감상해주세요  크롬에서는 재생되지 않습니다 IE로 들어주세요 ㅜㅜ   
+  <h1><p><a href="https://guchoongje.wixsite.com/yoonje" target="_blank" title="html5 specification">구윤제</a> 자세한 프로필은 이 링크를 참조해주세요<h1>
+  </p><지난 학기에 만든 포트폴리오 웹사이트 입니다.
 
   <h1>고양이를 좋아하는 나</h1>
   <p><a href="https://www.facebook.com/search/top/?q=%EB%82%98%EB%A5%BC%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EA%B3%A0%EC%96%91%EC%9D%B4">고양이 사진 보러가기</a> 고양이를 좋아합니다.
