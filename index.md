@@ -1,13 +1,13 @@
 <html>
 <head>
-  <title>WEB1 - html</title>
+  <title>20141202 구윤제 github</title>
   <meta charset="utf-8">
 </head>
 <body>
   <ol>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <li>주전공 영어영문학과</li>
+    <li>복수전공 경영학과</li>
+    <li>부전공 </li>
   </ol>
   <h1>20141202 구윤제</h1>
   <p><a href="https://guchoongje.wixsite.com/yoonje" target="_blank" title="html5 specification">구윤제(HTML)</a> 자세한 프로필은 이 사이트를 참조해주세요
