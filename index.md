@@ -15,12 +15,7 @@
   <p>
     <  <iframe width="640" height="360" src="http://www.youtube.com/embed/i0p1bmr0EmE?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>)
 ></iframe>
-  </p>
-  <p><a 
-  </ol>
-  <p>
-  </p>
-  <p><a 
+
  유튜브음악과 같이 웹페이지 감상해주세요  크롬에서는 재생되지 않습니다 IE로 들어주세요 ㅜㅜ   
  <h1>자세한 프로필은 이 링크를 참조해주세요</h1><p>
  <a href="https://guchoongje.wixsite.com/yoonje" target="_blank" title="html5 specification">구윤제</a>
