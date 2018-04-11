@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>20141202 구윤제 github</title>
+  20141202 구윤제 github
   <meta charset="utf-8">
 </head>
 <body>
